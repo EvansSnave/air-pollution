@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/air-pollution/static/css/main.3cf802be.css",
+    "main.js": "/air-pollution/static/js/main.8d71e490.js",
+    "index.html": "/air-pollution/index.html",
+    "main.3cf802be.css.map": "/air-pollution/static/css/main.3cf802be.css.map",
+    "main.8d71e490.js.map": "/air-pollution/static/js/main.8d71e490.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cf802be.css",
+    "static/js/main.8d71e490.js"
+  ]
+}
